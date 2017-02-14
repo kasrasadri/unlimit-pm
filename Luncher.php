@@ -1,4 +1,4 @@
-<?php
+http://t.me/Botmassage_bot
 /*
 سورس اصلی ربات پی وی رسان
 @PvResanBot
